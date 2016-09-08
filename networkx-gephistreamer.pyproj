@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c3020588-c61a-49c7-ad4c-2e34da74b3e8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>networkx-gephistreamer.py</StartupFile>
+    <StartupFile>NetworkXStreamer.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="networkx-gephistreamer.py" />
+    <Compile Include="NetworkXStreamer.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
